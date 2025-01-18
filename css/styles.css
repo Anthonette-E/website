@@ -3,6 +3,7 @@ ul li {
   display: inline-block;
   margin-right: 10px;
   background-color: black;
+  margin-left: 10px;
 }
 nav ul {
   float: right;
